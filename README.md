@@ -9,7 +9,7 @@ Soy altamente versátil, capaz de desempeñar diferentes roles (desarrollador we
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BonfantiMatias/matiasbonfanti/master/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/BonfantiMatias/BonfantiMatias/main/techstack.gif" width="360px"/>
   
 ### 🧐 Más sobre mí:
 - 🔭 &nbsp; Actualmente estoy trabajando en un sistema de reconocimiento de imagenes utilizando ML
