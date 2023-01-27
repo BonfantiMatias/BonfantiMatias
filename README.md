@@ -1,4 +1,4 @@
-## Hola 👋, Soy Matias Bonfanti!
+# Hola 👋, Soy Matias Bonfanti!
 
 <a href='https://www.linkedin.com/in/matiasbonfanti/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/BonfantiMatias/BonfantiMatias/main/assets/linkedin-logo-png-1825.png" height='32px'/></a>
 <br>
@@ -22,7 +22,7 @@ Soy altamente versátil, capaz de desempeñar diferentes roles (desarrollador we
 
 <br>
 
-### 🔨 Languajes y Herramientas:
+## 🔨 Languajes y Herramientas:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/BonfantiMatias/BonfantiMatias/4a2618493746010c231743a119de902f799a8764/assets/python.svg"></a>
 <a href="https://spark.apache.org/" target="_blank"><img align="left" alt="Apache" height ="42px" src="https://raw.githubusercontent.com/BonfantiMatias/BonfantiMatias/main/assets/Spark.png"></a>
 
@@ -53,7 +53,7 @@ Soy altamente versátil, capaz de desempeñar diferentes roles (desarrollador we
 <br>
 <br>
 
-### 🛠️ Mis Proyectos
+## 🛠️ Mis Proyectos
 <a href="https://huggingface.co/spaces/matiasbonfanti/PG_Henry" target="_blank"> <img alt="Proyecto_yelp" src="https://raw.githubusercontent.com/BonfantiMatias/images/main/proyecto2.jpg" height="80" align="left"> </a>
 
 <br>
