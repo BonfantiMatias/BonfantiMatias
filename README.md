@@ -4,7 +4,7 @@
 <br>
 <br>
 </a>
-Soy altamente versátil, capaz de desempeñar diferentes roles (desarrollador web full stack 🌐, Data Science 🧪, Data Engineer🛠️ o Data analytics 📊) según las necesidades del proyecto. Me apasiona investigar y aprender sobre nuevas tecnologías 💻 y aplicarlas para crear soluciones innovadoras y eficientes.
+Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a diferentes roles (desarrollador web full stack 🌐, Data Science 🧪, Data Engineer🛠️ o Data analytics 📊) según las necesidades del proyecto. Me apasiona investigar y aprender sobre nuevas tecnologías 💻 y aplicarlas para crear soluciones innovadoras y eficientes.
 
 <br/>
 <br/>
