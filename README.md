@@ -55,8 +55,7 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 
 ## 🛠️ Mis Proyectos
 
-<br>
-<br>
+
 
  ### Data Engineer:
 <br>
