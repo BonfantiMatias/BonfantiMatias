@@ -56,7 +56,7 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 ## 🛠️ Mis Proyectos
 <br>
 <br>
-###  Data Engineer:
+  ### Data Engineer:
 <br>
 <br>
 <a href="https://huggingface.co/spaces/matiasbonfanti/PG_Henry" target="_blank"> <img alt="Proyecto_yelp" src="https://raw.githubusercontent.com/BonfantiMatias/images/main/proyecto2.jpg" height="80" align="left"> </a>
@@ -75,6 +75,6 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 <a href='https://github.com/BonfantiMatias/Youtube_Stats'><img align='center' alt="Data api v3" src="https://raw.githubusercontent.com/BonfantiMatias/Youtube_Stats/main/assets/youtube.png" height='80px'/>
 <br>
 <br>
-  ###  Data Science:
+  ### Data Science:
 <br>
 <br>
