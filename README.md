@@ -78,3 +78,5 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
   ### Data Science:
 <a href='https://github.com/BonfantiMatias/Robot_Almacen'><img align='center' alt="Q-Learning" src="https://raw.githubusercontent.com/BonfantiMatias/BonfantiMatias/main/assets/Q-Learning.png" height='80px'/>
 <br>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BonfantiMatias.BonfantiMatias)
+
