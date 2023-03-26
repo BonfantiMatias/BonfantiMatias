@@ -50,8 +50,7 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 
 <br>
 <br>
-<br>
-<br>
+
 
 ## 🛠️ Mis Proyectos
 
@@ -64,21 +63,19 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 
 <br>
 <br>
-<br>
-<br>
+
 <a href='https://github.com/BonfantiMatias/Kings-League'><img align="left" alt="KingsLeague" src="https://raw.githubusercontent.com/BonfantiMatias/Kings-League/main/assets/kings-league_logo-summa.png" height='80px'/>
 
 <br>
 <br>
-<br>
-<br>
+
 
 <a href='https://github.com/BonfantiMatias/Youtube_Stats'><img align='center' alt="Data api v3" src="https://raw.githubusercontent.com/BonfantiMatias/Youtube_Stats/main/assets/youtube.png" height='80px'/>
 <br>
   ### Data Science:
 <a href='https://github.com/BonfantiMatias/Robot_Almacen'><img align='center' alt="Q-Learning" src="https://raw.githubusercontent.com/BonfantiMatias/BonfantiMatias/main/assets/Q-Learning.png" height='80px'/>
 <br>
-<br>
+
 <br>
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=BonfantiMatias.BonfantiMatias)
