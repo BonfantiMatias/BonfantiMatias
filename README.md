@@ -60,10 +60,6 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 
  ### Data Engineer:
 <br>
-<br>
-<br>
-<br>
-<br>
 
 <a href="https://github.com/BonfantiMatias/PI-01-ETL" target="_blank"> <img alt="Proyecto_01_Henry" src="https://raw.githubusercontent.com/BonfantiMatias/BonfantiMatias/main/assets/ETL.jpg" height="80" align="left"> </a>
 
