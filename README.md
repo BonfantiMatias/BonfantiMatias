@@ -69,12 +69,6 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 <br>
 <br>
 
-
-<br>
-<br>
-<br>
-<br>
-
 <a href="https://github.com/BonfantiMatias/Ecomerce_Druid_Kafka" target="_blank"> <img alt="Ecomerce" src="https://raw.githubusercontent.com/BonfantiMatias/images/main/Ecommerce-Checkout-icon.png" height="80" align="left"> </a>
 
 <br>
