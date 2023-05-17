@@ -69,6 +69,14 @@ Como un profesional dinámico y versátil, tengo la habilidad de adaptarme a dif
 <br>
 <br>
 
+
+<a href="https://huggingface.co/spaces/matiasbonfanti/PG_Henry" target="_blank"> <img alt="Proyecto_yelp" src="https://raw.githubusercontent.com/BonfantiMatias/images/main/proyecto2.jpg" height="80" align="left"> </a>
+
+<br>
+<br>
+<br>
+<br>
+
 <a href="https://github.com/BonfantiMatias/Ecomerce_Druid_Kafka" target="_blank"> <img alt="Ecomerce" src="https://raw.githubusercontent.com/BonfantiMatias/images/main/Ecommerce-Checkout-icon.png" height="80" align="left"> </a>
 
 <br>
